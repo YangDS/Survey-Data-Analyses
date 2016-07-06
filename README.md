@@ -1,7 +1,4 @@
 # Survey-Data-Analyses
-This project demos predictive modeling with Python
-
-1. Survey analysis & predictive modeling project
 
 For this project, there are two different types of data on a sample of ~1000 members:
 
